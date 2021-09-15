@@ -1,0 +1,24 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "something using Typescript\r > From stephen grider Typescript course",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-code-is-my-property/maps-ts.git"
+  },
+  "keywords": [],
+  "author": "fadhilsaheer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-code-is-my-property/maps-ts/issues"
+  },
+  "homepage": "https://github.com/your-code-is-my-property/maps-ts#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
