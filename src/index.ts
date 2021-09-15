@@ -1,5 +1,8 @@
 import { User } from './User';
+import { Company } from './Company';
 
-let user = new User();
+const user = new User();
+console.log(user);
 
-console.log(user.name);
+const company = new Company();
+console.log(company);
